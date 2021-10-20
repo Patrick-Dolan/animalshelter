@@ -1,11 +1,10 @@
 body {
   font: sans-serif;
   width: 80%;
-  border: 2px solid red;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  
+  background-color: bisque;
 }
 
 h1, h2 {
@@ -18,10 +17,10 @@ img  {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border: 2px solid plum;
 }
 
 .adoption {
-  border: 2px solid black;
   margin: 20px;
 }
 
@@ -32,5 +31,9 @@ img  {
   width: 40%;
   float: left;
   height: 600px;
+  background-color: pink;
 }
 
+ul {
+  font-style: italic;
+}
