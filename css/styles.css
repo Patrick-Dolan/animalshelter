@@ -1,0 +1,13 @@
+img  {
+  width: 300px;
+}
+
+.adoption {
+  border: 2px solid black;
+}
+
+.dog {
+  border: 1px solid grey;
+  margin: 20px;
+  padding: 20px;
+}
