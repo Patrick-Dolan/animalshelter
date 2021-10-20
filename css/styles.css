@@ -32,8 +32,9 @@ img  {
   float: left;
   height: 600px;
   background-color: pink;
+  overflow: auto;
 }
 
-ul {
+.dog ul {
   font-style: italic;
 }
